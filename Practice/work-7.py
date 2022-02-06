@@ -1,7 +1,7 @@
 boy = float(input("Boyunuzu Giriniz:"))
 kilo = int(input("Kilonuzu Giriniz:"))
 
-bki =  kilo / (boy ** 2)
+bki = kilo / (boy ** 2)
 
 if (bki < 18.5):
     print("Zayıf")

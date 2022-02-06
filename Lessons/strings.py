@@ -22,4 +22,4 @@ print(len(b))
 c = "Arda"
 d = "Yaldız"
 e = "Mükemmel"
-print(c +" "+d+" "+e)
+print(c + " "+d+" "+e)

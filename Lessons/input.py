@@ -7,6 +7,6 @@ print(isimSorgula1+isimSorgula2+isimSorgula3)
 try:
     a = int(input("Bir sayı giriniz: "))
 except ValueError:
-    print("Lütfen geçerli bir sayı giriniz.")    # İlerde öğrenicem.
+    print("Lütfen geçerli bir sayı giriniz.")
 
 

@@ -5,8 +5,9 @@ def tambölenleribulma(sayı):
 
         if (sayı % i == 0):
             tam_bölenler.append(i)
-    
+
     return tam_bölenler
+
 
 while True:
     sayı = input("Sayı: ")
@@ -16,4 +17,4 @@ while True:
         break
     else:
         sayı = int(sayı)
-        print(tambölenleribulma(sayı))    
+        print(tambölenleribulma(sayı))

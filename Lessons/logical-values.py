@@ -7,9 +7,9 @@ if b < 10 and b >= 0:
 elif b < 0:
     print("Girdiğiniz Sayı 0'dan küçük.")
 else:
-    print("Girdiğiniz sayı 10'dan büyük.")    
+    print("Girdiğiniz sayı 10'dan büyük.")
 
-#== eşit mi
+# == eşit mi
 #!= eşit değil mi
 # > büyük mü
-# <küçük mü     
+# <küçük mü

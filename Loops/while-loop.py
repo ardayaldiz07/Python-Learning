@@ -11,7 +11,7 @@ while(a <= 20):
     a += 2
 
 index = 0
-liste = [1,2,3,4,5,6]
+liste = [1, 2, 3, 4, 5, 6]
 
 while (index < len(liste)):
     print(f"İndex = {index} Değer = {liste[index]}")

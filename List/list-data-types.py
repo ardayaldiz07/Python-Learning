@@ -22,10 +22,10 @@ print(liste3)
 # liste3.pop(0)
 # print(liste3)
 
-#Sort metodu
-newList = [1,7,9,2,4,6,2455,64327,45224,121231]
-newList.sort()# newList.sort(reverse=True) Büyükten küçüğe
+# Sort metodu
+newList = [1, 7, 9, 2, 4, 6, 2455, 64327, 45224, 121231]
+newList.sort()  # newList.sort(reverse=True) Büyükten küçüğe
 print(newList)
 
-listlist = [newList],[liste3,[liste2]]
+listlist = [newList], [liste3, [liste2]]
 print(listlist)

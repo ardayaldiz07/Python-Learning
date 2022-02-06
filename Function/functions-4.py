@@ -11,10 +11,11 @@ def dördeböl(a):
 
 # print(dördeböl(ikiyletopla(üçleçarp(5))))
 
+
 def deneme(b):
     return b + 5 + 4 + 8
 
+
 print(deneme(1))
 
-#Void function değer döndürmeyen fonksiyonlardır.
-
+# Void fonksiyonlar değer döndürmeyen fonksiyonlardır.

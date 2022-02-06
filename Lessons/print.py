@@ -15,6 +15,6 @@ print(*"Arda", sep="\n")
 a = int(input("Bir sayı giriniz: "))
 b = int(input("Bir sayı giriniz: "))
 sum = int(a+b)
-print("{} + {} = {}".format(a,b,sum))
-print("{:.2f} {:.3f} {:.2f}".format(3.1587,3.8998,4.5687))
-#Formatlama tiplerini ezberlemene gerek yok https://pyformat.info
+print("{} + {} = {}".format(a, b, sum))
+print("{:.2f} {:.3f} {:.2f}".format(3.1587, 3.8998, 4.5687))
+# Formatlama tiplerini ezberlemene gerek yok https://pyformat.info

@@ -1,6 +1,3 @@
-
-
-
 def Summon(a,b,c):
     return a+b+c
 def Extension(d):

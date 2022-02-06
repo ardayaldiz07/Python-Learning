@@ -8,7 +8,7 @@ Faktöryel Bulma
 
 while True:
     number = input("Hangi sayını faktöryelini bulmak istersiniz?: ")
-    
+
     if number == "q":
         print("Program kapatılıyor...")
         break
@@ -16,6 +16,6 @@ while True:
         number = int(number)
 
     factorial = 1
-    for i in range(2,number+1):
+    for i in range(2, number+1):
         factorial *= i
-    print(factorial)    
+    print(factorial)

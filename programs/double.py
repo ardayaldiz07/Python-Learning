@@ -1,4 +1,4 @@
-from matematik import double
+from CustomModules.mathmodule import double
 
 while True:
     number = input("Bir sayı giriniz: ")

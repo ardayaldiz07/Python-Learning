@@ -39,15 +39,15 @@ for (a, b, c) in demet2:
     print(f"A: {a} B: {b} C: {c}")
 
 
-# Sözlük üzerinde gezinme
+# Sözlük üzerinde gezinme.
 
-sözlük = {"bir":1,"iki":2,"üç":3}
+sözlük = {"bir": 1, "iki": 2, "üç": 3}
 
 for eleman in sözlük:
     print(eleman)
 
 for eleman in sözlük.values():
-    print(eleman)    
+    print(eleman)
 
-for (i,j) in sözlük.items():
+for (i, j) in sözlük.items():
     print(f"Anahtar: {i} Değer: {j}")
